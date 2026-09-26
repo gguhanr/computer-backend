@@ -3,7 +3,7 @@
 
 A full-stack website for **Sen Kumaran Info Tech**, a computer sales & service shop. Customers can browse products, add them to a cart, and place orders or book repair services straight to WhatsApp. The shop owner manages everything from a secure admin panel.
 
-**Live site:** `(https://senkumaraninfotech.netlify.app/)` &nbsp;
+**Live site:** https://senkumaraninfotech.netlify.app
 
 ---
 
