@@ -124,4 +124,4 @@ WhatsApp: +91 XXXXX XXXXX
 
 ## 📄 License
 
-This project is for Sen Kumaran Info Tech. All rights reserved.
+This project is for Sen Kumaran Info Tech. All rights reserved.  
