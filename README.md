@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32679844/README.md)
+
 # Sen Kumaran Info Tech 🖥️  
 
 A full-stack website for **Sen Kumaran Info Tech**, a computer sales & service shop. Customers can browse products, add them to a cart, and place orders or book repair services straight to WhatsApp. The shop owner manages everything from a secure admin panel.
