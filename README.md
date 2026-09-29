@@ -7,7 +7,7 @@ A full-stack website for **Sen Kumaran Info Tech**, a computer sales & service s
 
 ---
 
-## ✨ Features
+## ✨ Features   
 
 ### Customer storefront (`index.html`)
 - Products loaded live from MongoDB
